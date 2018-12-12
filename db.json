@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "$key": null,
+      "fullName": "Aravindan",
+      "email": "aravindan@gmail.com",
+      "mobile": "09597927183",
+      "city": "Coimbatore",
+      "gender": "1",
+      "department": "3",
+      "hireDate": "2018-12-10T18:30:00.000Z",
+      "isPermanent": true
+    },
+    {
+      "id": 2,
+      "$key": null,
+      "fullName": "Ganesh",
+      "email": "ganesh@gmail.com",
+      "mobile": "4569871230",
+      "city": "banglore",
+      "gender": "1",
+      "department": "3",
+      "hireDate": "2018-12-10T18:30:00.000Z",
+      "isPermanent": true
+    },
+    {
+      "$key": null,
+      "fullName": "Bharath",
+      "email": "bharath@gmail.com",
+      "mobile": "7412589630",
+      "city": "Coimbatore",
+      "gender": "1",
+      "department": "3",
+      "hireDate": "2018-12-10T18:30:00.000Z",
+      "isPermanent": true,
+      "id": 4
+    },
+    {
+      "id": 7,
+      "$key": null,
+      "fullName": "sara",
+      "email": "sara@gmail.com",
+      "mobile": "0959774586",
+      "city": "Coimbatore",
+      "gender": "2",
+      "department": "2",
+      "hireDate": "2018-11-30T18:30:00.000Z",
+      "isPermanent": true
+    }
+  ]
+}
